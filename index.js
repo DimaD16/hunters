@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 
-client.login("NzU5Nzc5OTUxMTc1NTMyNTQ1.X3CeOA.mcgjSLB0iHbk_KJfFlMfWfsRKpU")
+client.login("NzU5Nzc5OTUxMTc1NTMyNTQ1.X3CeOA.HmxbwKOv4eCrRfVux4WJI0qAau4")
 
 
 client.on('message', function (message) {
